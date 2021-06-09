@@ -1,2 +1,2 @@
-# users with their location register
-Users and their locations little project
+# users and their location register
+
